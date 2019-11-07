@@ -8,8 +8,8 @@
 
 ### 목차
 
-- [MySQL](https://yunjae830.github.io/-Clearance/file/MySQL.md)
-- [Spring](https://yunjae830.github.io/-Clearance/file/Spring.md)
+- [MySQL](https://yunjae830.github.io/-Clearance/file/MySQL)
+- [Spring](https://yunjae830.github.io/-Clearance/file/Spring)
 - Connection Pool
 - HTML & JS, CSS
 - WEB 개념
