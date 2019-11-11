@@ -4,7 +4,7 @@
 
 # Connection Pool
 
-- ### [Connection Pool Commons DBCP 이해하기]( https://yunjae830.github.io/-Clearance/file/ConnectionPool/ConnectionPools )
+- ### [Connection Pool Commons DBCP 이해하기]( https://yunjae830.github.io/-Clearance/file/ConnectionPool/Connection )
 
 - ###  DBCP 구현 - DB Connection Pooling
 
