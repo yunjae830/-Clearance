@@ -10,7 +10,7 @@
 
 - [MySQL](https://yunjae830.github.io/-Clearance/file/MySQL)
 - [Spring](https://yunjae830.github.io/-Clearance/file/Spring)
-- [Connection Pool](https://yunjae830.github.io/-Clearance/file/Connection_Pool)
+- [Connection Pool](https://yunjae830.github.io/-Clearance/file/ConnectionPool)
 - HTML & JS, CSS
 - WEB 개념
 - Cookie와 세션
